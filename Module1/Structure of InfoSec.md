@@ -94,8 +94,6 @@ InfoSec is built on 3 main principles:
 
 # 🧠 2. Security Concepts (Risk, Threat, Vulnerability)
 
-This is **VERY IMPORTANT** — this is how professionals think.
-
 ---
 
 ## 📌 2.1 What is Risk?
