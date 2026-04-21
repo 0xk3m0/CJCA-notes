@@ -312,7 +312,7 @@ This shows you **how the field is structured in real companies**.
 
 ---
 
-## 📌 3.3 Penetration Tester (🔥 your target)
+## 📌 3.3 Penetration Tester
 
 ### Role
 
