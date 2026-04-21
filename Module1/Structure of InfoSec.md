@@ -81,9 +81,9 @@ InfoSec is built on 3 main principles:
     
 - Focus on:
     
-    - Prevent access ❌
+    - Prevent unauthorized access ❌
         
-    - Prevent modification ❌
+    - Prevent unauthorized modification ❌
         
     - Prevent destruction ❌
         
